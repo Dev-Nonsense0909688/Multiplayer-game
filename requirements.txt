@@ -1,1 +1,3 @@
-
+websockets==12.0
+# Optional: For better async handling (if needed in future)
+# asyncio (built-in, no need to list)
